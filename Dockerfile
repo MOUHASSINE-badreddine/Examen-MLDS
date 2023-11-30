@@ -5,11 +5,11 @@ FROM python:3.8
 WORKDIR /usr/src/app
 
 # Copier les fichiers nécessaires dans le conteneur
-COPY requirements.txt ./
+COPY Requirements.txt ./
 COPY main.py ./
 
 # Installer les dépendances
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install -r Requirements.txt
 
 # Commande à exécuter au démarrage du conteneur
 CMD ["python", "./main.py"]
