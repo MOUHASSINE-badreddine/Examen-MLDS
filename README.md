@@ -25,7 +25,6 @@ Nous avons utilisé Git pour le contrôle de version et collaboré efficacement 
 
 ### Structure des Fichiers
 - `main.py` : Le script principal où l'analyse de clustering est effectuée.
-- `utils.py` : Contient des fonctions utilitaires pour la prétraitement et les métriques d'évaluation.
 - `requirements.txt` : Liste tous les packages Python nécessaires pour le projet.
 
 ### Installation
