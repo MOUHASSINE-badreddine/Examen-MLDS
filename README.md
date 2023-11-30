@@ -26,15 +26,6 @@ Nous avons utilisé Git pour le contrôle de version et collaboré efficacement 
 ### Structure des Fichiers
 - `main.py` : Le script principal où l'analyse de clustering est effectuée.
 - `requirements.txt` : Liste tous les packages Python nécessaires pour le projet.
-
-### Installation
-Pour configurer l'environnement du projet :
-```bash
-git clone https://github.com/votre-repertoire.git
-cd votre-repertoire
-pip install -r requirements.txt
-
-
 ### Bonus ajouté:
 Développer le modèle en local avec docker et monter un volume sur le projet, ça vous
 permet de remplir le Dockerfile au fur et à mesure et de travailler ensemble sur la même
@@ -50,3 +41,12 @@ Réaliser une cross validation.
 
 Toute autre méthode de réduction de la dimension ou algorithme de clustering seraient
 très appréciés.(DBSCAN,Agglomerative)
+
+### Installation
+Pour configurer l'environnement du projet :
+```bash
+git clone https://github.com/votre-repertoire.git
+cd votre-repertoire
+pip install -r requirements.
+
+
