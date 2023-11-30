@@ -33,3 +33,6 @@ Pour configurer l'environnement du projet :
 git clone https://github.com/votre-repertoire.git
 cd votre-repertoire
 pip install -r requirements.txt
+
+
+### Bonus : 
