@@ -35,4 +35,18 @@ cd votre-repertoire
 pip install -r requirements.txt
 
 
-### Bonus : 
+### Bonus ajouté:
+Développer le modèle en local avec docker et monter un volume sur le projet, ça vous
+permet de remplir le Dockerfile au fur et à mesure et de travailler ensemble sur la même
+version de python et des librairies.
+
+Visualisation des données sur un plan à l'aide de l'ACP, T-SNE et UMAP.
+
+Rédaction d'une bonne documentation (README).
+Sauvegarder les données pour ne pas les télécharger à chaque instantiation d'un
+nouveau conteneur (ou bien les installer dans l'image docker).
+
+Réaliser une cross validation.
+
+Toute autre méthode de réduction de la dimension ou algorithme de clustering seraient
+très appréciés.(DBSCAN,Agglomerative)
