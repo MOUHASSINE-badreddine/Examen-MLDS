@@ -1,3 +1,4 @@
-sklearn
+scikit-learn
 sentence_transformers
 numpy
+umap-learn
