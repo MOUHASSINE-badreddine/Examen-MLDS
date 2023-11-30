@@ -18,7 +18,7 @@ Après la réduction de dimensionnalité, des algorithmes de clustering ont ét�
 Ce projet a été un effort collaboratif. Chaque membre de l'équipe s'est concentré sur différents aspects :
 
 - **Khallouq Youssef Amine** : A travaillé sur l'application de t-SNE pour la réduction de dimensionnalité et K-Means pour le clustering. Également responsable de la génération des graphiques de visualisation et de l'évaluation de la performance du clustering à l'aide de la Score de Silhouette, NMI et ARI.
-- **Baderddin Mouhassin** : A appliqué l'ACP sur l'ensemble de données et mis en œuvre le Clustering Agglomératif, ainsi que les évaluations nécessaires.
+- **MOUHASSINE Badreddine** : A appliqué l'ACP sur l'ensemble de données et mis en œuvre le Clustering Agglomératif, ainsi que les évaluations nécessaires.
 - **Nabigh Mohamed** : S'est concentré sur UMAP pour la réduction de dimensionnalité et a aidé à affiner les paramètres du clustering pour améliorer la qualité des clusters.
 
 Nous avons utilisé Git pour le contrôle de version et collaboré efficacement en utilisant des demandes d'extraction et des revues de code.
